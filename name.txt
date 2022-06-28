@@ -1,0 +1,9 @@
+
+pc@Ankita MINGW64 ~/Desktop/test
+$ git clone https://github.com/anki2001ta/test.git
+Cloning into 'test'...
+warning: You appear to have cloned an empty repository.
+
+pc@Ankita MINGW64 ~/Desktop/test
+$ 
+
